@@ -1,2 +1,1 @@
-# Getting-Cleaning-data
-Project files
+Repo for the project getting clean data
